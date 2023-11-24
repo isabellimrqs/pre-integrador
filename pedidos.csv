@@ -1,0 +1,22 @@
+Order_Number,Date,Items,Quantity,Unitary_Price,Total,Status
+1001,11/22/2023,Yellow Gold Half Ring 18k,2,"R$850,00","R$1.700,00",Sent
+1002,11/23/2023,Solitaire Ring Forever White Gold,1,"R$2.550,00","R$2.550,00",Processing
+1003,11/24/2023,Yellow Gold Topaz Sky Diamond Bracelet,3,"R$550,00","R$1.650,00",Sent
+1004,11/25/2023,White Gold Earrings w/ Emeralds and Diamonds,1,"R$8.627,50","R$8.627,50",Delivered
+1005,11/26/2023,"Silver Necklace 40 cm""",4,"R$1.240,00","R$1.240,00",Canceled
+1006,11/27/2023,Jazz Half Ring in 18k Yellow Gold,1,"R$8.190,00","R$8.190,00",Sent
+1007,11/28/2023,Infinity Silver and Topaz Bracelet,1,"R$550,00","R$550,00",Processing
+1008,11/29/2023,Butterfly Silver Studded Earring,1,"R$390,00","R$390,00",Sent
+1009,11/30/2023,Passport Holder in Purple,1,"R$250,00","R$250,00",Delivered
+1010,12/01/2023,Love Me Ring 18k Yellow Gold,1,"R$6.590,00","R$6.590,00",Canceled
+1011,12/02/2023,Pink Silver Necklace,3,"R$590,00","R$1.770,00",Sent
+1012,12/03/2023,Heart Bracelet Yellow Gold and Diamonds,1,"R$1.390,00","R$1.390,00",Delivered
+1013,12/04/2023,Sky Ring in 925 Silver,1,"R$594,00","R$594,00",Processing
+1014,12/05/2023,V Pour Elle Women's Perfume 100ml,1,"R$350,00","R$350,00","Sent/td>
+        "
+1015,12/06/2023,Vivara Women's Wallet Salmon Leather,1,"R$290,00","R$290,00",Canceled
+1016,12/07/2023,Yellow Gold Bath Gift Box Separator,1,"R$240,00","R$240,00",Sent
+1017,12/08/2023,Rose Gold Plated Hamsa Amulet Earring,1,"R$140,00","R$140,00",Processing
+1018,12/09/2023,Men's Steel Bracelet,1,"R$390,00","R$390,00",Delivered
+1019,12/10/2023,Black Acetate Square Sunglasses,1,"R$294,00","R$294,00",Canceled
+1020,12/11/2023,Calvin Klein Black Leather Bracelet,1,"R$790,00","R$790,00",Sent
